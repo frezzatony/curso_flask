@@ -5,10 +5,12 @@ app = Flask(__name__)
 
 desenvolvedores = [
   {
+      'id'  : 0,
       'nome' : 'Tony Frezza',
       'habilidades' : ['Python','Flask','PHP']
   },
   {
+    'id'  : 1,
     'nome'  : 'Aldrin Fernandes',
     'habilidades' : ['Python','Django']
   }
